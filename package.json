@@ -1,0 +1,20 @@
+{
+  "name": "m3-dl-test",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "~5.8.3",
+    "vite": "^7.1.7"
+  },
+  "dependencies": {
+    "@ktibow/iconset-material-symbols": "^0.0.1758826463",
+    "dreamland": "link:../dreamland",
+    "m3-dreamland": "link:../m3-dreamland"
+  }
+}

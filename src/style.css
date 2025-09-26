@@ -1,0 +1,11 @@
+:root, body {
+	padding: 0;
+	margin: 0;
+}
+
+:root, body, #app {
+	height: 100%;
+	width: 100%;
+}
+
+:root, body, #app { box-sizing: border-box; }
