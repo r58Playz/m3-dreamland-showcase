@@ -30,7 +30,7 @@ export let App: Component = function() {
 				<div class="content">
 					<div class="m3dl-font-display-medium">M3-Dreamland</div>
 					<p>
-						A Material 3 Expressive component library for dreamland.js. Inspired by m3-svelte.
+						A Material 3 Expressive component library for <a href="https://dreamland.js.org" target="_blank">dreamland.js</a>. Inspired by m3-svelte.
 					</p>
 					<div class="showcase">
 						<CardShowcase />
